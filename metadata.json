@@ -1,0 +1,7 @@
+{
+  "name": "Veylora - Buy • Sell • Anywhere",
+  "description": "Global multi-category marketplace to buy, sell, and discover products, properties, vehicles, services, and businesses worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
